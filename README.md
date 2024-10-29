@@ -34,6 +34,6 @@
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
-Credits: [Sarabi elizabeth](https://github.com/ManuelCalixto)
+Credits: [Sarabi elizabeth]
 
 28/10/2024
